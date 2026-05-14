@@ -1,3 +1,4 @@
+# 如果您是学生，联系jetbrains他们会帮你激活jetbrains全家桶(https://www.jetbrains.com/zh-cn/academy/student-pack/)
 # 免责声明
 本仓库所提供的资源仅供学习与交流使用，禁止用于任何商业用途。
 所有资源来源于互联网，如侵犯您的权益，请联系我们及时删除。
